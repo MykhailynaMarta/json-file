@@ -1,0 +1,52 @@
+ <section class="columns column__first">
+                <div class="circle"><span class="circle__text">новинка</span></div>
+                <div class="column__title-container"><h2>Бізнес</h2></div>
+                <div class="line"></div>
+                <div class="img-container"><img src="img/column-first-shop.jpg" alt="Shop"></div>
+                <div class="name-of-product-container"><p class="name-of-product">Магазин легкої промисловості</p></div>
+                <div class="price-container"><span class="price-text"></span></div>
+                <div class="column-btn__buy-container">
+                    <button disabled class="column-btn__buy">
+                        <span>Незабаром у продажі</span></button></div>
+            </section>
+            <section class="columns column__second">
+                <div class="circle"><span class="circle__text">новинка</span></div>
+                <div class="column__title-container"><h2>Житло</h2></div>
+                <div class="line"></div>
+                <div class="img-container"><img src="img/column-second-flat.jpg" alt=""></div>
+                <div class="name-of-product-container"><p class="name-of-product">Житлова квартира</p></div>
+                <div class="price-container">
+                    $<span class="column-second__price-line-through">55 000 </span>
+                    $<span class="price-text">51000</span>
+                </div>
+                <div class="column-btn__buy-container">
+                    <button onclick="addToCart()" class="column-btn__buy btn_buy">
+                        <span>В корзину</span>
+                    </button>
+                </div>
+            </section>
+            <section class="columns column__third">
+                <div class="column__title-container"><h2>Житло</h2></div>
+                <div class="line"></div>
+                <div class="img-container"><img src="img/column-third-house.jpg" alt=""></div>
+                <div class="name-of-product-container"><p class="name-of-product">Будинок</p></div>
+                <div class="price-container">$<span class="price-text">45000</span></div>
+                <div class="column-btn__buy-container">
+                    <button onclick="addToCart()" class="column-btn__buy btn_buy">
+                        <span>В корзину</span>
+                    </button>
+                </div>
+            </section>
+            </section>
+            <section class="columns column__fourth">
+                <div class="circle"><span class="circle__text">новинка</span></div>
+                <div class="column__title-container"><h2>Бізнес</h2></div>
+                <div class="line"></div>
+                <div class="img-container"><img src="img/column-fourth-commercial.jpg" alt=""></div>
+                <div class="name-of-product-container"><p class="name-of-product">Комерційне приміщення</p></div>
+                <div class="price-container">$<span class="price-text">70500</span></div>
+<div class="column-btn__buy-container">
+                    <button onclick="addToCart()" class="column-btn__buy btn_buy">
+                        <span>В корзину</span>
+                    </button>
+                </div>            </section>
