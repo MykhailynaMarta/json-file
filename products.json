@@ -6,7 +6,7 @@
       "isNew": true,
       "name": "Магазин легкої промисловості",
       "image": "img/column-first-shop.jpg",
-      "price": null,  // Додайте конкретну ціну
+      "price": null, 
       "status": "Незабаром у продажі"
     },
     {
